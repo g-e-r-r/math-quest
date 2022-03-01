@@ -12,7 +12,7 @@ field = 1
 #Functions
 def welcome():
     print("Welcome to the math test")
-    print("If you have to do some operation you can use mine")
+    print("If you have to do some operation with a calculator you can use mine")
     print("You can download it at this link")
     print(calculatorLink)
 
